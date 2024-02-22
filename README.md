@@ -1,4 +1,4 @@
-![MasterHead](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png)
+![MasterHead](https://raw.githubusercontent.com/joebordes/joebordes/master/helloworld.png)
 <h1 align="center">Hi 👋, I'm Mehmet Pektaş</h1>
 <h3 align="center">A passionate Web Developer from Türkiye</h3>
 
