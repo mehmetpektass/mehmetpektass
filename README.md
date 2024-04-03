@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Pektas</h1>
 <h3 align="center">A passionate Web Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Node.js**
-
-- 🌱 I’m currently learning **React and Web API's**
+- 🌱 I’m currently working on  **MERN Stack**
 
 - 💬 Ask me about **Web Development Technologies**
 
