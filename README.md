@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/joebordes/joebordes/master/helloworld.png)
-<h1 align="center">Hi 👋, I'm Mehmet</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Pektaş</h1>
 <h3 align="center">A passionate Web Developer from Türkiye</h3>
 
 - 🌱 I’m currently working on  **MERN Stack**
