@@ -1,10 +1,10 @@
 ![MasterHead](https://raw.githubusercontent.com/joebordes/joebordes/master/helloworld.png)
 <h1 align="center">Hi 👋, I'm MehmetPektas</h1>
-<h3 align="center">A passionate Web Developer from Türkiye</h3>
+<h3 align="center">A passionate on Data Science and Machine Learning from Turkiye</h3>
 
-- 🌱 I’m currently working on  **MERN Stack**
+- 🌱 I’m currently working on  **Deep Learning and NLP**
 
-- 💬 Ask me about **Web Development Technologies**
+- 💬 Ask me about **Artificial Intelligence Technologies**
 
 - 📫 How to reach me **pektasmehmett1184@gmail.com**
 
